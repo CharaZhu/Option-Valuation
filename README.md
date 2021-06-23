@@ -12,7 +12,8 @@ Compute the price of the options using Monte Carlo Simulation and lattice approa
  
 ## Background
 
-Assume that the risk-free rate is 2%, the underlying stock has the current price $100, and volatility 25%, with no dividend payments. 
+Assume that the risk-free rate is 2%, the underlying stock has the current price <img src="http://chart.googleapis.com/chart?cht=tx&chl= $">
+100, and volatility 25%, with no dividend payments. 
 All the options have a strike price $105 and the maturity 2 months. The simulation has the unit time = 1 week. Noted the sample size at least 250.
  
 ## License
